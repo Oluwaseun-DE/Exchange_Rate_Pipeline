@@ -1,5 +1,5 @@
 # Exchange Rate Data Pipeline
-This project focuses on designing and orchestrating an automated, reliable and scalable data pipeline with airflow to fetch, store and process daily exchange rates
+This project focuses on designing and orchestrating an automated, reliable and scalable data pipeline with airflow to fetch, store and process daily exchange rates of various currencies.
 
 ## Problem Statement
 The client, Community Exchange struggles with:
